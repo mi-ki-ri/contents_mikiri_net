@@ -1,0 +1,68 @@
+{{ define "main" }}
+  <main class="container mx-auto bg-white text-zinc-700 p-3">
+    <h2 class="p-1 m-1 font-bold text-xl">{{ if not .IsHome }}{{ .Title }}{{ else }}すべての記事{{ end }}</h2>
+    <ul>
+      {{ $burl := .Site.BaseURL }}
+      {{ $paginator := .Paginate .Site.RegularPages 23 }}
+      {{ range $paginator.Pages }}
+            <li>
+              <article>
+                
+                <div class="flex justify-start items-stretch">
+                  <p class="w-20 flex justify-center items-center flex-col ml-5 p-2 m-1 bg-zinc-500">
+                    <a class="text-white" href="{{ "/" | relLangURL }}{{ .Section | urlize }}">
+                      {{ upper .Section }}
+                    </a>
+                  </p>
+                  <div class="flex flex-1 flex-col justify-between items-stretch">
+                    <div class="flex justify-between items-stretch m-1 p-1">
+                    <h3 class="p-1 m-1 w-32 truncate">
+                      <a class="font-bold" href="{{ .Permalink }}">
+                        {{ .Title }}
+                      </a>
+                    </h3>
+                    <main class="p-1 m-1 truncate md:w-96 xl:w-[48rem]">
+                      <a href="{{ .Permalink }}">
+                      {{ .Summary }}
+                      </a>
+                    </main>
+                    <time class="p-1 m-1" datetime="{{ .Date.Format "2006-01-02" }}">
+                      <a href="{{ .Permalink }}">
+                      {{ .Date.Format "2006-01-02" }}
+                      </a>
+                    </time>
+                    
+                    </div>  
+                    <div class="p-1 m-1">
+                      {{- range $termName := .Params.tags }}
+                      <a class="p-1 m-1 text-zinc-400" href="{{ "/tags/" | relLangURL }}{{ $termName | urlize }}">{{ $termName }}</a>
+                      {{- end }}
+                    </div>
+                    
+                  </div>
+                  
+                
+                  
+                
+              </article>
+              
+            </li>
+        
+      {{ end }}
+      {{ with $paginator.HasPrev }}
+            <li class="flex justify-start items-stretch">
+              <a class="w-20 text-center text-white flex justify-center items-center flex-col ml-5 p-2 m-1 bg-zinc-500" href="{{ $burl }}{{ $paginator.Prev.URL }}">
+                PREV
+              </a>
+            </li>
+        {{ end }}
+        {{ with $paginator.HasNext }}
+            <li  class="flex justify-start items-stretch">
+              <a class="w-20 text-center text-white flex justify-center items-center flex-col ml-5 p-2 m-1 bg-zinc-500" href="{{ $burl }}{{ $paginator.Next.URL }}">
+                NEXT
+              </a>
+            </li>
+        {{ end }}
+    </ul>
+  </main>
+{{ end }}

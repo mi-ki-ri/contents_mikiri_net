@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'contents.mikiri.net'
+
+theme = "contents_mikiri_net"
