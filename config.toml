@@ -8,10 +8,11 @@ theme = "contents_mikiri_net"
 
 
 [[deployment.targets]]
+  name = "gcs"
+  URL = "gs://contents.mikiri.net"
+
+[[deployment.targets]]
   name = "aws"
   URL = "s3://contents.mikiri.net?region=ap-southeast-1"
 
 
-[[deployment.targets]]
-  name = "gcs"
-  URL = "gs://contents.mikiri.net"
