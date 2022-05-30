@@ -1,5 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://contents.mikiri.net/'
 languageCode = 'en-us'
 title = 'contents.mikiri.net'
+hasCJKLanguage = true
 
 theme = "contents_mikiri_net"
