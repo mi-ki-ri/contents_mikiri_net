@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html><script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+<meta name="google-site-verification" content="JlLqAhePmn3wFVEFR5BBfURLtJbwkL01BjqII5lg8Cs" />
+<title>Diary - contents.mikiri.net</title>
+<body class="flex flex-col justify-center items-stretch"><header class="w-full h-32 bg-gradient-to-br from-stone-50 to-stone-100 flex justify-center items-center">
+  <h1 class="text-center font-bold text-xl">
+    <a href="https://contents.mikiri.net/">
+      contents.mikiri.net
+    </a>
+  </h1>
+</header><div id="content">
+  <main class="container mx-auto bg-white text-zinc-700 p-3">
+    <h2 class="p-1 m-1 font-bold text-xl">Diary</h2>
+    <ul>
+      
+      
+      
+            <li>
+              <article>
+                
+                <div class="flex justify-start items-stretch">
+                  <p class="w-20 flex justify-center items-center flex-col ml-5 p-2 m-1 bg-zinc-500">
+                    <a class="text-white" href="/draws">
+                      DRAWS
+                    </a>
+                  </p>
+                  <div class="flex flex-1 flex-col justify-between items-stretch">
+                    <div class="flex justify-between items-stretch m-1 p-1">
+                    <h3 class="p-1 m-1 w-32 truncate">
+                      <a class="font-bold" href="https://contents.mikiri.net/draws/2022-05-30/index.json">
+                        2022 05 30
+                      </a>
+                    </h3>
+                    <main class="p-1 m-1 truncate md:w-96 xl:w-[48rem]">
+                      <a href="https://contents.mikiri.net/draws/2022-05-30/index.json">
+                      昔書いたマンガを試しにアップ。
+                      </a>
+                    </main>
+                    <time class="p-1 m-1" datetime="2022-05-30">
+                      <a href="https://contents.mikiri.net/draws/2022-05-30/index.json">
+                      2022-05-30
+                      </a>
+                    </time>
+                    
+                    </div>  
+                    <div class="p-1 m-1">
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/comic">Comic</a>
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/%E7%A9%BA%E6%83%B3%E3%81%99%E3%82%8B%E6%A1%83%E5%B1%8B%E3%83%A2%E3%83%A4">空想する桃屋モヤ</a>
+                    </div>
+                    
+                  </div>
+                  
+                
+                  
+                
+              </article>
+              
+            </li>
+        
+      
+            <li>
+              <article>
+                
+                <div class="flex justify-start items-stretch">
+                  <p class="w-20 flex justify-center items-center flex-col ml-5 p-2 m-1 bg-zinc-500">
+                    <a class="text-white" href="/songs">
+                      SONGS
+                    </a>
+                  </p>
+                  <div class="flex flex-1 flex-col justify-between items-stretch">
+                    <div class="flex justify-between items-stretch m-1 p-1">
+                    <h3 class="p-1 m-1 w-32 truncate">
+                      <a class="font-bold" href="https://contents.mikiri.net/songs/2022-05-30_2_amb/index.json">
+                        2022 05 30_2_amb
+                      </a>
+                    </h3>
+                    <main class="p-1 m-1 truncate md:w-96 xl:w-[48rem]">
+                      <a href="https://contents.mikiri.net/songs/2022-05-30_2_amb/index.json">
+                      なんとなく作ったアンビエント風の曲。
+                      </a>
+                    </main>
+                    <time class="p-1 m-1" datetime="2022-05-30">
+                      <a href="https://contents.mikiri.net/songs/2022-05-30_2_amb/index.json">
+                      2022-05-30
+                      </a>
+                    </time>
+                    
+                    </div>  
+                    <div class="p-1 m-1">
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/nekomura_iroha">NEKOMURA_Iroha</a>
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/ambient">Ambient</a>
+                    </div>
+                    
+                  </div>
+                  
+                
+                  
+                
+              </article>
+              
+            </li>
+        
+      
+            <li>
+              <article>
+                
+                <div class="flex justify-start items-stretch">
+                  <p class="w-20 flex justify-center items-center flex-col ml-5 p-2 m-1 bg-zinc-500">
+                    <a class="text-white" href="/songs">
+                      SONGS
+                    </a>
+                  </p>
+                  <div class="flex flex-1 flex-col justify-between items-stretch">
+                    <div class="flex justify-between items-stretch m-1 p-1">
+                    <h3 class="p-1 m-1 w-32 truncate">
+                      <a class="font-bold" href="https://contents.mikiri.net/songs/2022-05-30_xanadu/index.json">
+                        ザナドゥ
+                      </a>
+                    </h3>
+                    <main class="p-1 m-1 truncate md:w-96 xl:w-[48rem]">
+                      <a href="https://contents.mikiri.net/songs/2022-05-30_xanadu/index.json">
+                      猫村いろはオリジナル曲です。 縁石に上ったら 少し先が見えた気がしてた 歩道の白い色 踏んでいたら守られていた 縁石に上らずに 白い色も踏まずに向かうよ
+                      </a>
+                    </main>
+                    <time class="p-1 m-1" datetime="2022-05-30">
+                      <a href="https://contents.mikiri.net/songs/2022-05-30_xanadu/index.json">
+                      2022-05-30
+                      </a>
+                    </time>
+                    
+                    </div>  
+                    <div class="p-1 m-1">
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/nekomura_iroha">NEKOMURA_Iroha</a>
+                    </div>
+                    
+                  </div>
+                  
+                
+                  
+                
+              </article>
+              
+            </li>
+        
+      
+            <li>
+              <article>
+                
+                <div class="flex justify-start items-stretch">
+                  <p class="w-20 flex justify-center items-center flex-col ml-5 p-2 m-1 bg-zinc-500">
+                    <a class="text-white" href="/blogs">
+                      BLOGS
+                    </a>
+                  </p>
+                  <div class="flex flex-1 flex-col justify-between items-stretch">
+                    <div class="flex justify-between items-stretch m-1 p-1">
+                    <h3 class="p-1 m-1 w-32 truncate">
+                      <a class="font-bold" href="https://contents.mikiri.net/blogs/2022-05-30/index.json">
+                        SNSデトックス
+                      </a>
+                    </h3>
+                    <main class="p-1 m-1 truncate md:w-96 xl:w-[48rem]">
+                      <a href="https://contents.mikiri.net/blogs/2022-05-30/index.json">
+                      新サイト作成に着手しています（つまり、このサイト）。 Pixivのセクシャルハラスメントの件もあって、緩やかにSNSから離れていこうかなと思っ
+                      </a>
+                    </main>
+                    <time class="p-1 m-1" datetime="2022-05-30">
+                      <a href="https://contents.mikiri.net/blogs/2022-05-30/index.json">
+                      2022-05-30
+                      </a>
+                    </time>
+                    
+                    </div>  
+                    <div class="p-1 m-1">
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/info">Info</a>
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/diary">Diary</a>
+                    </div>
+                    
+                  </div>
+                  
+                
+                  
+                
+              </article>
+              
+            </li>
+        
+      
+            <li>
+              <article>
+                
+                <div class="flex justify-start items-stretch">
+                  <p class="w-20 flex justify-center items-center flex-col ml-5 p-2 m-1 bg-zinc-500">
+                    <a class="text-white" href="/notes">
+                      NOTES
+                    </a>
+                  </p>
+                  <div class="flex flex-1 flex-col justify-between items-stretch">
+                    <div class="flex justify-between items-stretch m-1 p-1">
+                    <h3 class="p-1 m-1 w-32 truncate">
+                      <a class="font-bold" href="https://contents.mikiri.net/notes/2022-05-30_2/index.json">
+                        2022 05 30_2
+                      </a>
+                    </h3>
+                    <main class="p-1 m-1 truncate md:w-96 xl:w-[48rem]">
+                      <a href="https://contents.mikiri.net/notes/2022-05-30_2/index.json">
+                      まだまだ作成中。 HugoとTailwindを採用してみました。 動くといいなあ。
+                      </a>
+                    </main>
+                    <time class="p-1 m-1" datetime="2022-05-30">
+                      <a href="https://contents.mikiri.net/notes/2022-05-30_2/index.json">
+                      2022-05-30
+                      </a>
+                    </time>
+                    
+                    </div>  
+                    <div class="p-1 m-1">
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/info">Info</a>
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/hugo">Hugo</a>
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/tailwind">Tailwind</a>
+                    </div>
+                    
+                  </div>
+                  
+                
+                  
+                
+              </article>
+              
+            </li>
+        
+      
+            <li>
+              <article>
+                
+                <div class="flex justify-start items-stretch">
+                  <p class="w-20 flex justify-center items-center flex-col ml-5 p-2 m-1 bg-zinc-500">
+                    <a class="text-white" href="/notes">
+                      NOTES
+                    </a>
+                  </p>
+                  <div class="flex flex-1 flex-col justify-between items-stretch">
+                    <div class="flex justify-between items-stretch m-1 p-1">
+                    <h3 class="p-1 m-1 w-32 truncate">
+                      <a class="font-bold" href="https://contents.mikiri.net/notes/2022-05-30/index.json">
+                        2022 05 30
+                      </a>
+                    </h3>
+                    <main class="p-1 m-1 truncate md:w-96 xl:w-[48rem]">
+                      <a href="https://contents.mikiri.net/notes/2022-05-30/index.json">
+                      新たに作成中です。
+                      </a>
+                    </main>
+                    <time class="p-1 m-1" datetime="2022-05-30">
+                      <a href="https://contents.mikiri.net/notes/2022-05-30/index.json">
+                      2022-05-30
+                      </a>
+                    </time>
+                    
+                    </div>  
+                    <div class="p-1 m-1">
+                      <a class="p-1 m-1 text-zinc-400" href="/tags/info">Info</a>
+                    </div>
+                    
+                  </div>
+                  
+                
+                  
+                
+              </article>
+              
+            </li>
+        
+      
+      
+        
+    </ul>
+  </main>
+
+        </div><footer class="w-full h-32 bg-gradient-to-br from-stone-50 to-stone-100 flex justify-center items-center">
+  <address>
+    mi.ki.ri.hassha.p@gmail.com
+  </address>
+</footer></body>
+</html>

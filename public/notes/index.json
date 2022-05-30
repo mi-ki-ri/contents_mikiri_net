@@ -1,0 +1,17 @@
+{
+    "data" : 
+{
+  
+  "section" : "notes",
+  
+  "count" : "2",
+  "items" : [
+  
+  {"content":"\u003cp\u003eまだまだ作成中。\u003c/p\u003e\n\u003cp\u003eHugoとTailwindを採用してみました。\u003c/p\u003e\n\u003cp\u003e動くといいなあ。\u003c/p\u003e\n","date":"2022-05-30T15:36:19+09:00","draft":false,"title":"2022 05 30_2"}
+  
+  , {"content":"\u003cp\u003e新たに作成中です。\u003c/p\u003e\n","date":"2022-05-30T14:55:46+09:00","draft":false,"title":"2022 05 30"}
+  
+  ]
+}
+
+}

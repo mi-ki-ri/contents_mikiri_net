@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Songs on contents.mikiri.net</title>
+    <link>https://contents.mikiri.net/songs/index.json</link>
+    <description>Recent content in Songs on contents.mikiri.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 May 2022 16:27:11 +0900</lastBuildDate><atom:link href="https://contents.mikiri.net/songs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 05 30_2_amb</title>
+      <link>https://contents.mikiri.net/songs/2022-05-30_2_amb/index.json</link>
+      <pubDate>Mon, 30 May 2022 16:27:11 +0900</pubDate>
+      
+      <guid>https://contents.mikiri.net/songs/2022-05-30_2_amb/index.json</guid>
+      <description>なんとなく作ったアンビエント風の曲。</description>
+    </item>
+    
+    <item>
+      <title>ザナドゥ</title>
+      <link>https://contents.mikiri.net/songs/2022-05-30_xanadu/index.json</link>
+      <pubDate>Mon, 30 May 2022 16:06:53 +0900</pubDate>
+      
+      <guid>https://contents.mikiri.net/songs/2022-05-30_xanadu/index.json</guid>
+      <description>猫村いろはオリジナル曲です。 縁石に上ったら 少し先が見えた気がしてた 歩道の白い色 踏んでいたら守られていた 縁石に上らずに 白い色も踏まずに向かうよ</description>
+    </item>
+    
+  </channel>
+</rss>
