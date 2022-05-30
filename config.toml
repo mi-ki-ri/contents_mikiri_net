@@ -1,18 +1,11 @@
 baseURL = 'https://contents.mikiri.net/'
 
-[params]
-  subURL = "http://contents.mikiri.net.s3-website-ap-southeast-1.amazonaws.com"
-
 languageCode = 'en-us'
 title = 'contents.mikiri.net'
 hasCJKLanguage = true
 
 theme = "contents_mikiri_net"
 
-[outputs]
-home = ["HTML", "JSON"]
-section = ["HTML", "JSON"]
-page = ["HTML", "JSON"]
 
 [[deployment.targets]]
   name = "aws"
@@ -22,17 +15,3 @@ page = ["HTML", "JSON"]
 [[deployment.targets]]
   name = "gcs"
   URL = "gs://contents.mikiri.net"
-
-[[deployment.matchers]]
-  #  Cache static assets for 1 year.
-  pattern = "^.+\\.(js|css|svg|ttf)$"
-  cacheControl = "max-age=31536000, no-transform, public"
-  gzip = true
-
-[[deployment.matchers]]
-  pattern = "^.+\\.(xml|json|txt)$"
-  contentType = "text/plain"
-
-[[deployment.matchers]]
-  pattern = "^.+\\.(html)$"
-  contentType = "text/html"

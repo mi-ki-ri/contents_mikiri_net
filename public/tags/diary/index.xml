@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diary on </title>
+    <title>Diary on contents.mikiri.net</title>
     <link>https://contents.mikiri.net/tags/diary/</link>
-    <description>Recent content in Diary on </description>
+    <description>Recent content in Diary on contents.mikiri.net</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Mon, 30 May 2022 16:01:47 +0900</lastBuildDate><atom:link href="https://contents.mikiri.net/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SNSデトックス</title>
@@ -12,10 +13,7 @@
       <pubDate>Mon, 30 May 2022 16:01:47 +0900</pubDate>
       
       <guid>https://contents.mikiri.net/blogs/2022-05-30/</guid>
-      <description>新サイト作成に着手しています（つまり、このサイト）。
-Pixivのセクシャルハラスメントの件もあって、緩やかにSNSから離れていこうかなと思っているのです。
-それゆえに、Pixivの代替的機能、つまりはイラストの表示がしやすい機能が求められるところです。
-とりあえず素直に処理してみようと思いますが、どうなるか。</description>
+      <description>新サイト作成に着手しています（つまり、このサイト）。 Pixivのセクシャルハラスメントの件もあって、緩やかにSNSから離れていこうかなと思っ</description>
     </item>
     
   </channel>

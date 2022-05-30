@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ambient on </title>
+    <title>Ambient on contents.mikiri.net</title>
     <link>https://contents.mikiri.net/tags/ambient/</link>
-    <description>Recent content in Ambient on </description>
+    <description>Recent content in Ambient on contents.mikiri.net</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Mon, 30 May 2022 16:27:11 +0900</lastBuildDate><atom:link href="https://contents.mikiri.net/tags/ambient/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022 05 30_2_amb</title>

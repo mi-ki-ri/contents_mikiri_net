@@ -4,11 +4,11 @@
         {{ .Title }}
       </h3>
       {{ with .Params.audio_srcs }}
-      {{ range . }}
+      {{ range . }}     
       <figure>
         <audio
             controls
-            src="{{$.Site.Params.subURL}}{{.}}">
+            src="http://contents.mikiri.net.s3-website-ap-southeast-1.amazonaws.com/{{.}}">
                 Your browser does not support the
                 <code>audio</code> element.
         </audio>
@@ -17,7 +17,7 @@
       {{ end }}
       {{ with  .Params.draw_srcs }}
       {{ range . }}
-        <img src="{{$.Site.Params.subURL}}{{.}}" alt="Drawed Picture" loading="lazy" class="w-full h-full" />
+        <img src="http://contents.mikiri.net.s3-website-ap-southeast-1.amazonaws.com/{{.}}" alt="Drawed Picture" loading="lazy" class="w-full h-full" />
       {{ end }}
       {{ end }}
     <div class=" prose m-1 p-1">
